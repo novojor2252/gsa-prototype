@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
