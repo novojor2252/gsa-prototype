@@ -1,1 +1,1 @@
-Limit ray<2.9.3 due to bug in ray==2.10.0 (#9254)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
