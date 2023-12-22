@@ -1,1 +1,1 @@
-Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
+Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
