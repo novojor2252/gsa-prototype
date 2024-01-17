@@ -1,1 +1,1 @@
-Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
+ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
