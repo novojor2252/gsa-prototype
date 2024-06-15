@@ -1,1 +1,1 @@
-Updating a typo on paddlepaddle.md (#9108)
+Fix docs links (#7096)
