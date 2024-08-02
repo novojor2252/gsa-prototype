@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Fix Neural Magic links (#9144)
