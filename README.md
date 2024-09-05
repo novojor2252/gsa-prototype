@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
